@@ -133,7 +133,7 @@
         "@types/sockjs-client": "1.5.4",
         "@types/turndown": "5.0.5",
         "@types/uuid": "10.0.0",
-        "@typescript-eslint/eslint-plugin": "8.19.0",
+        "@typescript-eslint/eslint-plugin": "8.19.1",
         "@typescript-eslint/parser": "8.19.0",
         "eslint": "9.17.0",
         "eslint-config-prettier": "9.1.0",
