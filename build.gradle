@@ -217,7 +217,7 @@ dependencies {
     implementation "org.apache.santuario:xmlsec:4.0.3"
 
     implementation "org.jsoup:jsoup:1.18.3"
-    implementation "commons-codec:commons-codec:1.17.1"   // needed for spring security saml2
+    implementation "commons-codec:commons-codec:1.17.2"   // needed for spring security saml2
 
     // use the latest version to avoid security vulnerabilities
     implementation "org.springframework:spring-webmvc:${spring_framework_version}"
