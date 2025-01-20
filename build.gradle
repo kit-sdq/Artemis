@@ -410,7 +410,7 @@ dependencies {
     testImplementation "org.springframework.boot:spring-boot-starter-test:${spring_boot_version}"
     testImplementation "org.springframework.security:spring-security-test:${spring_security_version}"
     testImplementation "org.springframework.boot:spring-boot-test:${spring_boot_version}"
-    testImplementation "org.assertj:assertj-core:3.27.2"
+    testImplementation "org.assertj:assertj-core:3.27.3"
     testImplementation "org.mockito:mockito-core:${mockito_version}"
     testImplementation "org.mockito:mockito-junit-jupiter:${mockito_version}"
 
