@@ -3,4 +3,4 @@ gitpython==3.1.43
 beautifulsoup4==4.12.3
 pyperclip==1.9.0
 python-dotenv==1.0.1
-tqdm==4.66.5
+tqdm==4.67.1
