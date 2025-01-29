@@ -68,7 +68,7 @@
         "ngx-infinite-scroll": "19.0.0",
         "ngx-webstorage": "19.0.1",
         "pako": "2.1.0",
-        "papaparse": "5.5.1",
+        "papaparse": "5.5.2",
         "pdf-lib": "1.17.1",
         "pdfjs-dist": "4.10.38",
         "rxjs": "7.8.1",
