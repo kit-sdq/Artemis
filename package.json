@@ -142,7 +142,7 @@
         "@angular/cli": "19.1.5",
         "@angular/compiler-cli": "19.1.4",
         "@angular/language-service": "19.1.4",
-        "@sentry/types": "8.52.1",
+        "@sentry/types": "8.54.0",
         "@testing-library/angular": "17.3.5",
         "@types/crypto-js": "4.2.2",
         "@types/d3-shape": "3.1.7",
