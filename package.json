@@ -132,7 +132,7 @@
         "yargs-parser": "21.1.1"
     },
     "devDependencies": {
-        "@analogjs/vite-plugin-angular": "1.13.0",
+        "@analogjs/vite-plugin-angular": "1.13.1",
         "@angular-builders/jest": "19.0.0",
         "@angular-eslint/builder": "19.1.0",
         "@angular-eslint/eslint-plugin": "19.1.0",
