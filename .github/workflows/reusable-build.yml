@@ -176,7 +176,7 @@ jobs:
           username: ${{ github.repository_owner }}
           password: ${{ secrets.GITHUB_TOKEN }}
       - name: Build and Push to GitHub Container Registry
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v6
         with:
           # beware that the linux/arm64 build from the registry is using an amd64 compiled .war file as
           # the GitHub runners don't support arm64 and QEMU takes too long for emulating the build
