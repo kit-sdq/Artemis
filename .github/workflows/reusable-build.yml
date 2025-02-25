@@ -127,7 +127,7 @@ jobs:
           java-version: '${{ env.java }}'
           cache: 'gradle'
       - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v3
+        uses: gradle/actions/setup-gradle@v4
       # Build
       - name: Production Build
         run: ./gradlew -Pprod -Pwar clean bootWar
