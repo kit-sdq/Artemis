@@ -44,7 +44,7 @@
         "@vscode/markdown-it-katex": "1.1.1",
         "bootstrap": "5.3.3",
         "compare-versions": "6.1.1",
-        "core-js": "3.40.0",
+        "core-js": "3.41.0",
         "crypto-js": "4.2.0",
         "dayjs": "1.11.13",
         "diff-match-patch-typescript": "1.1.0",
