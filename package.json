@@ -179,7 +179,7 @@
         "jest-junit": "16.0.0",
         "jest-preset-angular": "14.5.3",
         "lint-staged": "15.5.0",
-        "ng-mocks": "14.13.1",
+        "ng-mocks": "14.13.4",
         "patch-package": "8.0.0",
         "prettier": "3.5.3",
         "rimraf": "6.0.1",
