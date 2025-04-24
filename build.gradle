@@ -375,7 +375,7 @@ dependencies {
 
     // use newest version of gson to avoid security issues through outdated dependencies
     // NOTE: gson itself is not allowed in the Artemis code (based on architecture tests), but is used by dependencies (e.g. spring cloud eureka netflix)
-    implementation "com.google.code.gson:gson:2.13.0"
+    implementation "com.google.code.gson:gson:2.13.1"
 
     // explicitly only use this at runtime, because developers should prefer org.apache.commons:csv
     runtimeOnly "com.opencsv:opencsv:5.10"
