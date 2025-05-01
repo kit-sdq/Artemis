@@ -191,7 +191,7 @@ dependencies {
     implementation "org.apache.logging.log4j:log4j-to-slf4j:2.24.3"
 
     // Used for LTI (e.g. Moodle --> Artemis)
-    implementation "uk.ac.ox.ctl:spring-security-lti13:0.3.2"
+    implementation "uk.ac.ox.ctl:spring-security-lti13:0.3.3"
 
     // https://search.maven.org/artifact/org.eclipse.jgit/org.eclipse.jgit
     implementation "org.eclipse.jgit:org.eclipse.jgit:${jgit_version}"
