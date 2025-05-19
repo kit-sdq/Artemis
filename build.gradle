@@ -437,7 +437,7 @@ dependencies {
     testImplementation "com.h2database:h2:2.3.232"
 
     // Lightweight JSON library needed for the internals of the MockRestServiceServer
-    testImplementation "org.json:json:20250107"
+    testImplementation "org.json:json:20250517"
 
     testImplementation "org.junit.jupiter:junit-jupiter:${junit_version}"
     testImplementation "org.junit.jupiter:junit-jupiter-api:${junit_version}"
