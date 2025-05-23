@@ -158,7 +158,7 @@ configurations.configureEach {
 dependencies {
 
     // Required by Spring cloud
-    implementation "org.apache.httpcomponents.client5:httpclient5:5.4.4"
+    implementation "org.apache.httpcomponents.client5:httpclient5:5.5"
     implementation "org.apache.httpcomponents.core5:httpcore5:5.3.4"
     implementation "org.apache.httpcomponents:httpmime:4.5.14"
 
