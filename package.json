@@ -142,7 +142,7 @@
         "@types/smoothscroll-polyfill": "0.3.4",
         "@types/turndown": "5.0.5",
         "@types/uuid": "10.0.0",
-        "@typescript-eslint/eslint-plugin": "8.33.0",
+        "@typescript-eslint/eslint-plugin": "8.33.1",
         "@typescript-eslint/parser": "8.33.0",
         "@typescript-eslint/utils": "8.33.0",
         "angular-eslint": "19.6.0",
