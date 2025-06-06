@@ -456,7 +456,7 @@ apply from: "gradle/test.gradle"
 
 dependencyManagement {
     imports {
-        mavenBom "io.zonky.test.postgres:embedded-postgres-binaries-bom:17.2.0"
+        mavenBom "io.zonky.test.postgres:embedded-postgres-binaries-bom:17.5.0"
     }
 }
 
