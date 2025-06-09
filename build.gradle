@@ -370,7 +370,7 @@ dependencies {
     implementation "org.apache.pdfbox:pdfbox:3.0.5"
     implementation "org.apache.commons:commons-csv:1.14.0"
     implementation "org.commonmark:commonmark:0.24.0"
-    implementation "commons-fileupload:commons-fileupload:1.5"
+    implementation "commons-fileupload:commons-fileupload:1.6.0"
     implementation "net.lingala.zip4j:zip4j:2.11.5"
 
     // use newest version of guava to avoid security issues through outdated dependencies
