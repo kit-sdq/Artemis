@@ -407,7 +407,7 @@ dependencies {
     checkstyle "commons-beanutils:commons-beanutils:1.11.0"
 
 
-    implementation "com.google.errorprone:error_prone_annotations:2.38.0"
+    implementation "com.google.errorprone:error_prone_annotations:2.39.0"
 
     // NOTE: we want to keep the same unique version for all configurations, implementation and annotationProcessor
     implementation("net.bytebuddy:byte-buddy") { version {              strictly byte_buddy_version } }
