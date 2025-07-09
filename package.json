@@ -123,7 +123,7 @@
         "@angular-eslint/eslint-plugin-template": "19.8.0",
         "@angular-eslint/schematics": "19.8.0",
         "@angular-eslint/template-parser": "19.8.0",
-        "@angular/build": "19.2.15",
+        "@angular/build": "20.0.5",
         "@angular/cli": "19.2.15",
         "@angular/compiler-cli": "19.2.14",
         "@angular/language-service": "19.2.14",
