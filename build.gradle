@@ -411,7 +411,7 @@ dependencies {
     checkstyle "commons-beanutils:commons-beanutils:1.11.0"
 
 
-    implementation "com.google.errorprone:error_prone_annotations:2.39.0"
+    implementation "com.google.errorprone:error_prone_annotations:2.40.0"
     // needed for OpenAPI generation
     implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.8'
 
