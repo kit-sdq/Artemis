@@ -392,7 +392,7 @@ dependencies {
     implementation "com.github.seancfoley:ipaddress:5.5.1"
 
     // used for testing and Java Template Upgrade Service
-    implementation "org.apache.maven:maven-model:3.9.10"
+    implementation "org.apache.maven:maven-model:3.9.11"
     implementation "org.apache.pdfbox:pdfbox:3.0.5"
     implementation "org.apache.commons:commons-csv:1.14.0"
     implementation "org.commonmark:commonmark:0.25.0"
