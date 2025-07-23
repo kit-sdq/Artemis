@@ -230,7 +230,7 @@ dependencies {
 
     implementation "org.jsoup:jsoup:1.21.1"
     // needed by e.g. spring security saml2, we explicitly use the newest version to avoid security vulnerabilities
-    implementation "commons-codec:commons-codec:1.18.0"
+    implementation "commons-codec:commons-codec:1.19.0"
 
     // use the latest version to avoid security vulnerabilities
     implementation "org.springframework:spring-aop:${spring_framework_version}"
